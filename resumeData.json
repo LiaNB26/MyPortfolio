@@ -1,0 +1,123 @@
+{
+  "main": {
+    "name": "Lia Brachio",
+    "title": "Hi, my name is Lia",
+    "description": "I am a computer science graduate and I am looking for my first job as a Front-End / Full-Stack developer",
+    "image": "profilepic.jpg",
+    "bio": "I am a hard worker, a fast learner, highly motivated and willing to learn all that is needed.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "liabrachio@gmail.com",
+    "phone": "+972-586640097",
+    "github": "https://github.com/LiaNB26/MERN-Ecommerce-App",
+    "project": "https://proshopecommerceapp.herokuapp.com/",
+    "address": {
+      "street": "",
+      "city": "Holon",
+      "state": "Israel",
+      "zip": ""
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumeview": "https://drive.google.com/file/d/1Bn3q2prJVL3GEFoef-3kzQs7iIS1a-Bm/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/lia-novikov-brachio-964677110/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/LiaNB26",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "SVCollege",
+        "degree": "Front-End Course",
+        "graduated": "2020",
+        "description": ""
+      },
+      {
+        "school": "Holon Institute of Technology",
+        "degree": "B.Sc. Computer Science",
+        "graduated": "2019",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Branded: Mobile & Web App Development",
+        "title": "Front End Developer Intern",
+        "years": "June 2020 – August 2020",
+        "description": "During the internship, developed web applications (Admin Dashboards) using React.js, JavaScript, HTML, CSS, Redux."
+      },
+      {
+        "company": "NCR Corporation",
+        "title": "QA NFT Engineer",
+        "years": "December 2019 – April 2020",
+        "description": "Writing and Executing Performance and Loading Tests for different projects using JMeter, LoadRunner, Blazemeter, Java, C#, XML."
+      }
+    ],
+    "skills": [
+      {
+        "name": "React.js",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "HTML",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "Redux",
+        "level": "70%"
+      },
+      {
+        "name": "Node.js + Express.js",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB + mongoose",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "ProShop",
+        "category": "Ecommerce MERN App",
+        "image": "proshop.jpg",
+        "url": "https://proshopecommerceapp.herokuapp.com/"
+      },
+      {
+        "title": "My Places",
+        "category": "MERN App",
+        "image": "myplaces.jpg",
+        "url": "https://myplacesappmern.web.app/"
+      },
+      {
+        "title": "Meals App",
+        "category": "React Native App",
+        "image": "reactnative.jpg",
+        "url": "https://github.com/LiaNB26/Angular-Project"
+      },
+      {
+        "title": "Recipe Book",
+        "category": "In development...",
+        "image": "angular.png",
+        "url": "https://github.com/LiaNB26/Angular-Project"
+      }
+    ]
+  }
+}
