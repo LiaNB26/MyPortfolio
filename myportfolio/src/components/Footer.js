@@ -6,7 +6,7 @@ class Footer extends Component {
       var networks = this.props.data.social.map(function (network) {
         return (
           <li key={network.name}>
-            <a href={network.url} target="_blank">
+            <a href={network.url} target="_blank" rel="noreferrer">
               <i className={network.className}></i>
             </a>
           </li>
@@ -28,6 +28,7 @@ class Footer extends Component {
                   title="Styleshout"
                   href="http://www.styleshout.com/"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   Styleshout
                 </a>
@@ -43,11 +44,21 @@ class Footer extends Component {
 
         <div>
           Main Icon made by{" "}
-          <a href="https://www.freepik.com" title="Freepik" target="_blank">
+          <a
+            href="https://www.freepik.com"
+            title="Freepik"
+            target="_blank"
+            rel="noreferrer"
+          >
             Freepik
           </a>{" "}
           from{" "}
-          <a href="https://www.flaticon.com/" title="Flaticon" target="_blank">
+          <a
+            href="https://www.flaticon.com/"
+            title="Flaticon"
+            target="_blank"
+            rel="noreferrer"
+          >
             www.flaticon.com
           </a>
         </div>

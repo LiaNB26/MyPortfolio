@@ -70,6 +70,7 @@ class Header extends Component {
                 href={project}
                 className="button btn project-btn"
                 target="_blank"
+                rel="noreferrer"
               >
                 <i className="fa fa-book"></i>Project
               </a>
@@ -77,6 +78,7 @@ class Header extends Component {
                 href={github}
                 className="button btn github-btn"
                 target="_blank"
+                rel="noreferrer"
               >
                 <i className="fa fa-github"></i>Github
               </a>
