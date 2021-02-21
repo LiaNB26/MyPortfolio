@@ -4,7 +4,7 @@ import ParticlesBg from "particles-bg";
 class Header extends Component {
   render() {
     if (this.props.data) {
-      var project = this.props.data.project;
+      // var project = this.props.data.project;
       var github = this.props.data.github;
       var title = this.props.data.title;
       var description = this.props.data.description;
@@ -67,21 +67,22 @@ class Header extends Component {
             <hr />
             <ul className="social">
               <a
-                href={project}
+                href={github}
+                // href={project}
                 className="button btn project-btn"
                 target="_blank"
                 rel="noreferrer"
               >
-                <i className="fa fa-book"></i>Project
+                <i className="fa fa-book"></i>Github
               </a>
-              <a
+              {/* <a
                 href={github}
                 className="button btn github-btn"
                 target="_blank"
                 rel="noreferrer"
               >
                 <i className="fa fa-github"></i>Github
-              </a>
+              </a> */}
             </ul>
           </div>
         </div>
