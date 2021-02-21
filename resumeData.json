@@ -8,7 +8,7 @@
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "liabrachio@gmail.com",
     "phone": "+972-586640097",
-    "github": "https://github.com/LiaNB26/MERN-Ecommerce-App",
+    "github": "https://github.com/LiaNB26/",
     "project": "https://proshopecommerceapp.herokuapp.com/",
     "address": {
       "street": "",
@@ -113,10 +113,10 @@
         "url": "https://github.com/LiaNB26/Angular-Project"
       },
       {
-        "title": "Recipe Book",
+        "title": "Recipes App",
         "category": "In development...",
         "image": "react.png",
-        "url": ""
+        "url": "https://github.com/LiaNB26/Recipes-Project"
       }
     ]
   }
