@@ -73,7 +73,7 @@ class Header extends Component {
                 target="_blank"
                 rel="noreferrer"
               >
-                <i className="fa fa-book"></i>Github
+                <i className="fa fa-book"></i>GitHub
               </a>
               {/* <a
                 href={github}

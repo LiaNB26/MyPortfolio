@@ -107,16 +107,16 @@
         "url": "https://myplacesappmern.web.app/"
       },
       {
-        "title": "Meals App",
+        "title": "Shop App",
         "category": "React Native App",
         "image": "reactnative.jpg",
-        "url": "https://github.com/LiaNB26/Angular-Project"
+        "url": "https://github.com/LiaNB26/ShoppingCart-ReactApp"
       },
       {
-        "title": "Recipes App",
+        "title": "Recipe Book App",
         "category": "In development...",
-        "image": "react.png",
-        "url": "https://github.com/LiaNB26/Recipes-Project"
+        "image": "recipes.png",
+        "url": "https://github.com/LiaNB26/Recipes-MERN"
       }
     ]
   }
