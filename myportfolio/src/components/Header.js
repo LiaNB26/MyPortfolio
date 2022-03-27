@@ -1,5 +1,5 @@
-import React, { Component } from "react";
-import ParticlesBg from "particles-bg";
+import React, { Component } from 'react';
+import ParticlesBg from 'particles-bg';
 
 class Header extends Component {
   render() {
@@ -21,35 +21,35 @@ class Header extends Component {
     }
 
     return (
-      <header id="home">
-        <ParticlesBg type="circle" bg={true} />
-        <nav id="nav-wrap">
-          <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
+      <header id='home'>
+        <ParticlesBg type='circle' bg={true} />
+        <nav id='nav-wrap'>
+          <a className='mobile-btn' href='#nav-wrap' title='Show navigation'>
             Show navigation
           </a>
-          <a className="mobile-btn" href="#home" title="Hide navigation">
+          <a className='mobile-btn' href='#home' title='Hide navigation'>
             Hide navigation
           </a>
 
-          <ul id="nav" className="nav">
-            <li className="current">
-              <a className="smoothscroll" href="#home">
+          <ul id='nav' className='nav'>
+            <li className='current'>
+              <a className='smoothscroll' href='#home'>
                 Home
               </a>
             </li>
             <li>
-              <a className="smoothscroll" href="#about">
+              <a className='smoothscroll' href='#about'>
                 About
               </a>
             </li>
             <li>
-              <a className="smoothscroll" href="#resume">
+              <a className='smoothscroll' href='#resume'>
                 Resume
               </a>
             </li>
             <li>
-              <a className="smoothscroll" href="#portfolio">
-                Works
+              <a className='smoothscroll' href='#portfolio'>
+                Projects
               </a>
             </li>
             {/* <li>
@@ -60,20 +60,20 @@ class Header extends Component {
           </ul>
         </nav>
 
-        <div className="row banner">
-          <div className="banner-text">
-            <h1 className="responsive-headline">{title}</h1>
+        <div className='row banner'>
+          <div className='banner-text'>
+            <h1 className='responsive-headline'>{title}</h1>
             <h3>{description}.</h3>
             <hr />
-            <ul className="social">
+            <ul className='social'>
               <a
                 href={github}
                 // href={project}
-                className="button btn project-btn"
-                target="_blank"
-                rel="noreferrer"
+                className='button btn project-btn'
+                target='_blank'
+                rel='noreferrer'
               >
-                <i className="fa fa-book"></i>GitHub
+                <i className='fa fa-book'></i>GitHub
               </a>
               {/* <a
                 href={github}
@@ -87,9 +87,9 @@ class Header extends Component {
           </div>
         </div>
 
-        <p className="scrolldown">
-          <a className="smoothscroll" href="#about">
-            <i className="icon-down-circle"></i>
+        <p className='scrolldown'>
+          <a className='smoothscroll' href='#about'>
+            <i className='icon-down-circle'></i>
           </a>
         </p>
       </header>

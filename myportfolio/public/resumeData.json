@@ -17,7 +17,7 @@
       "zip": ""
     },
     "website": "http://www.timbakerdev.com",
-    "resumeview": "https://drive.google.com/file/d/1Bn3q2prJVL3GEFoef-3kzQs7iIS1a-Bm/view?usp=sharing",
+    "resumeview": "https://docs.google.com/document/d/1gdddvFeS1zjWxB8-L_pYmsaK-dHry6t6/edit?usp=sharing&ouid=107141773395594310073&rtpof=true&sd=true",
     "social": [
       {
         "name": "linkedin",
@@ -49,42 +49,50 @@
     ],
     "work": [
       {
+        "company": "NCR Corporation",
+        "title": "QA NFT Engineer",
+        "years": "October 2021 – Current",
+        "description": [
+          "Writing and executing Performance and Load tests for different projects.",
+          "Analyzing test results: Response time, CPU and Memory usage, etc.",
+          "Using: LoadRunner, Jmeter, Blazemeter, C#, Java, Postman."
+        ]
+      },
+      {
         "company": "Branded: Mobile & Web App Development",
         "title": "Front End Developer Intern",
         "years": "June 2020 – August 2020",
-        "description": "During the internship, developed web applications (Admin Dashboards) using React.js, JavaScript, HTML, CSS, Redux."
-      },
-      {
-        "company": "NCR Corporation",
-        "title": "QA NFT Engineer",
-        "years": "December 2019 – April 2020",
-        "description": "Writing and Executing Performance and Loading Tests for different projects using JMeter, LoadRunner, Blazemeter, Java, C#, XML."
+        "description": [
+          "Developed web applications using React.js, JavaScript, HTML, CSS, Redux.",
+          "Connected the Front End to the Back End using HTTP Requests.",
+          "Worked with the QA team to improve the web apps."
+        ]
       }
     ],
     "skills": [
       {
         "name": "React.js",
-        "level": "80%"
+        "level": "100%"
       },
       {
         "name": "JavaScript",
-        "level": "80%"
+        "level": "100%"
       },
       {
         "name": "HTML",
-        "level": "70%"
+        "level": "100%"
       },
       {
         "name": "CSS",
-        "level": "70%"
+        "level": "100%"
       },
       {
         "name": "Redux",
-        "level": "70%"
+        "level": "100%"
       },
       {
         "name": "Node.js + Express.js",
-        "level": "50%"
+        "level": "100%"
       },
       {
         "name": "MongoDB + mongoose",
@@ -95,6 +103,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Memories",
+        "category": "MERN App",
+        "image": "memories.jpg",
+        "url": "https://lianb-share-your-memories.netlify.app/"
+      },
+      {
         "title": "ProShop",
         "category": "Ecommerce MERN App",
         "image": "proshop.jpg",
@@ -102,7 +116,7 @@
       },
       {
         "title": "My Places",
-        "category": "MERN App",
+        "category": "not complete...",
         "image": "myplaces.jpg",
         "url": "https://myplacesappmern.web.app/"
       },
@@ -111,12 +125,6 @@
         "category": "React Native App",
         "image": "reactnative.jpg",
         "url": "https://github.com/LiaNB26/ShoppingCart-ReactApp"
-      },
-      {
-        "title": "Recipe Book App",
-        "category": "In development...",
-        "image": "recipes.png",
-        "url": "https://github.com/LiaNB26/Recipes-MERN"
       }
     ]
   }
